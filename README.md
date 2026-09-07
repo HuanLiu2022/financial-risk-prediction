@@ -13,7 +13,6 @@ Traditional machine learning and tree-based models were compared with a pretrain
 - TF-IDF
 - Traditional machine learning models
 - Tree-based models
-- BERT-based text classification
 - Class weighting for imbalanced data
 - BERT fine-tuning
 - F1-score evaluation
